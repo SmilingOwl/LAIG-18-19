@@ -35,4 +35,11 @@ Here is a close up of the board to see the pieces in detail:
 ![](https://github.com/SmilingOwl/LAIG-18_19/blob/master/img/LAIG3_T6_G04_1.JPG)
 
 
-There are the following game modes: *PC vs PC*, *Player vs PC* and *Player vs Player*. The user can click either on the pieces or the cells to select a piece to be moved and the place to where it should be moved. The user can also undo his last movement.
+There are the following game modes:
+* *PC vs PC*
+* *Player vs PC*
+* *Player vs Player*. 
+
+The user can click either on the pieces or the cells to select a piece to be moved and the place to where it should be moved.
+
+The user can also undo his last movement.
