@@ -1,9 +1,9 @@
 # LAIG 2018/2019
 
-Curricular Unity: LAIG - Graphical Applications Laboratory <br>
-Lective Year: 2018/2019
+**Curricular Unity:** LAIG - Graphical Applications Laboratory <br>
+**Lective Year:** 2018/2019
 
-Programming Language: Javascript <br>
+**Programming Language:** Javascript <br>
 
 
 Developed in collaboration with *Helena Montenegro*.
